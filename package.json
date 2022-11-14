@@ -1,0 +1,23 @@
+{
+  "name": "pairify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quentinneal/pairify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quentinneal/pairify/issues"
+  },
+  "homepage": "https://github.com/quentinneal/pairify#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
